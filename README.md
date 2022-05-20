@@ -12,4 +12,4 @@ Create filtering, sorting and grouping funcationality.
 
 Create concurrency techiques
 
-Create Various Search Facilities in Child Well-Being Monitor.
+Create Various Search Facilities in Child Well-Being Monitor
